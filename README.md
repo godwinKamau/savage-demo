@@ -1,6 +1,6 @@
 # Savage Demo
 
-### GOAL: Fix the thumbs up icon to increase the score on the corresponding post.
+Messaging board for 21 Savage fans!
 
 <hr>
 
